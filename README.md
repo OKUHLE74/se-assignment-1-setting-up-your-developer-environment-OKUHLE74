@@ -52,3 +52,65 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+answers of the assignment.
+1 steps to install windows 11 
+ step 1 - https://www.microsoft.com/software-download/windows11
+step 2 - Make sure you have:
+
+An internet connection (internet service provider fees may apply).
+Sufficient data storage available on the computer, USB, or external drive you are downloading the .iso file to.
+A blank DVD disc with at least 8GB (and DVD burner) to create a bootable disc. We recommend using a blank USB or blank DVD, because any content on it will be deleted during installation.
+If you receive a “disc image file is too large” message while attempting to burn a DVD bootable disc from an ISO file, consider using a higher capacity Dual Layer DVD.
+Ensure the PC you want to install Windows 11:
+
+Has a 64-bit CPU: Windows 11 can only run on 64-bit CPUs. To see if your PC has one, go to Settings > System > About , or search “System Information” in Windows and look under “System Type.” 
+Meets system requirements:
+Not all devices running Windows 10 are eligible to receive a Windows 11 upgrade. See the Note below for details.
+WARNING: Installing Windows 11 media on a PC that does not meet the Windows 11 minimum system requirements is not recommended and may result in compatibility issues. If you proceed with installing Windows 11 on a PC that does not meet the requirements, that PC will no longer be supported and won't be entitled to receive updates. Damages to the PC due to lack of compatibility aren't covered under the manufacturer warranty.
+
+step 3 - select windows 11 and also select the language then confirm.
+step 4 -verify your download
+2. steps on how to setup vscode 
+Download Visual Studio:
+Visit the Visual Studio website and click on "Download Visual Studio."
+Follow the on-screen instructions to download the installer.
+. Run the Installer:
+Run the downloaded installer.
+Choose the "Visual Studio" workload during installation, which includes the necessary components for general development.
+. Select Workloads and Components:
+In the Visual Studio Installer, select the workloads and components you need based on your development requirements. Common workloads include ".NET Desktop Development" or "Web Development."
+Modify Installation (Optional):
+If needed, you can customize the installation by clicking on the "Individual components" tab in the installer and selecting or deselecting specific components.
+Install:
+Click the "Install" button to start the installation process.
+This may take some time, as it involves downloading and installing the selected components.
+Launch Visual Studio:
+Once the installation is complete, launch Visual Studio.
+Sign in with your Microsoft account or create one if prompted.
+Choose Development Environment:
+On the welcome screen, select your development environment. For example, you can choose "Development Settings" based on your preferred coding style.
+Start Coding:
+You're now ready to start coding!
+ nstallation on Windows
+Visit the link https://www.python.org/downloads/
+
+to download the latest release ofPython. In this process, we will install Python 3.8.6 on ourWindows operating system. When we click on the above link, it will bring us the following page.
+
+Step - 1: Select the Python's version to download.Create a new project or open an existing one to begin your development work.
+step 2-Step - 2: Click on the Install Now
+
+Double-click the executable file, which is downloaded;
+
+the following window will open.
+
+Select Customize installation and proceed.
+
+Click on the Add Path check box, it will set the Python path automatically.
+Step - 3 Installation in Process
+
+
+
+3 steps on how to create git and github account.
+go to your browser and type in github.com  and signup for a new account .
+ 
